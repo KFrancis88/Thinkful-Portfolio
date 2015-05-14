@@ -1,0 +1,9 @@
+/*
+*	When screen is smaller than 500px
+*/
+
+@media only screen and (max-width: 500px) {
+  #introduction {
+  background-size: 980px 980px;
+  }
+}
